@@ -1,19 +1,4 @@
 Nome: Mario, Presenze: 30
 Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
-Nome: Mario, Presenze: 30
-Nome: Giulia, Presenze: 40
+Nome:Mario@, Presenze: @30#
+Nome:Giulia@, Presenze: @40#

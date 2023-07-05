@@ -56,7 +56,7 @@ public class RegistroPresenze {
 
 	@Override
 	public String toString() {
-		return "Nome: " + getNome() + ", Presenze: " + getGiorniPresenza();
+		return "Nome:" + getNome() + ", Presenze: " + "@" + getGiorniPresenza() + "#";
 	}
 
 	public String getNome() {

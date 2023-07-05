@@ -18,10 +18,10 @@ public class App {
 		int[] arrayNumeri1 = Arrays.copyOfRange(arrayNum, 0, 1000);
 		ciclaEStampa(arrayNumeri1);
 		System.out.println("---------------Array2--------------");
-		int[] arrayNumeri2 = Arrays.copyOfRange(arrayNum, 1001, 2000);
+		int[] arrayNumeri2 = Arrays.copyOfRange(arrayNum, 1000, 2000);
 		ciclaEStampa(arrayNumeri2);
 		System.out.println("---------------Array3--------------");
-		int[] arrayNumeri3 = Arrays.copyOfRange(arrayNum, 2001, 2999);
+		int[] arrayNumeri3 = Arrays.copyOfRange(arrayNum, 2000, 3000);
 		ciclaEStampa(arrayNumeri3);
 
 		NuoviThread t1 = new NuoviThread(arrayNumeri1, arrayNumeri2, arrayNumeri3);
